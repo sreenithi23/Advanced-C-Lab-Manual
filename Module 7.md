@@ -298,6 +298,7 @@ int main() {
 
 
 ### Output:
+
 ![alt text](imgs/image-4.png)
 
 ### Result:
